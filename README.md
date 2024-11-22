@@ -22,3 +22,8 @@ Loops through all possible cutoff values of a continuous predictor.
 Splits data into two groups based on each cutoff.
 Calculates Gray's test statistic for group differences in cumulative incidence functions (CIFs).
 Returns cutoff points ranked by the absolute value of the test statistic.
+
+## References
+1. Woo S, Kim S, Kim J. Determining cutoff values of prognostic factors in survival data with competing risks. Comput Stat 2016;31:369–86.
+2. Kim J, Ng HKT, Kim SW. Assessing the optimal cutpoint for tumor size in patients with lung cancer based on linear rank statistics in a competing risks framework. Yonsei Med J 2019;60:517-524.
+
