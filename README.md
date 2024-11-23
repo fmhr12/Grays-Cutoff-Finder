@@ -12,9 +12,7 @@ Works with survival times and event indicators coded for censored, event of inte
 
 ## Use Cases
 
-Survival Analysis: Find meaningful thresholds for predictors in datasets with survival times.
-Competing Risks: Analyze outcomes with competing events (e.g., death from other causes).
-Data Exploration: Discover statistically significant cutoffs for further research.
+Find meaningful thresholds for predictors in datasets with survival times. Discover statistically significant cutoffs for further research.
 
 ## How It Works
 The core algorithm:
