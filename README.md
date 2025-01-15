@@ -1,5 +1,4 @@
 # Gray's Cutoff Finder for Survival Analysis
-Gray's Cutoff Finder for Survival Analysis
 
 This repository contains a Python implementation for identifying optimal cutoff points for continuous prognostic factors in survival analysis. The method leverages Gray's Test for competing risks to determine the most statistically significant cutoff values.
 
